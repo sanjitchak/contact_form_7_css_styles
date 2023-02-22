@@ -1,0 +1,21 @@
+
+    #contactform7 p, #contactform7 label, #contactform7 input {
+width: 100%;
+}
+
+[type=button], [type=submit], button {
+    width: 30% !important;
+    color: white;
+    border-color: black;
+  background-color: black;
+}
+
+#contactform7 input {
+    margin-top: 10px !important;
+}
+
+
+#contactform7 textarea {
+    margin-top: 10px !important;
+}
+
